@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744332665035
+current_stage: None
+description: ''
+last_updated_timestamp: 1744332665035
+name: iris_model_Basic_Logistic_Regression
+run_id: 8046304eb121444c84586c663c37e1eb
+run_link: ''
+source: mlflow-artifacts:/792305259709463272/8046304eb121444c84586c663c37e1eb/artifacts/iris_model_Basic_Logistic_Regression
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/792305259709463272/8046304eb121444c84586c663c37e1eb/artifacts/iris_model_Basic_Logistic_Regression
+user_id: null
+version: 1

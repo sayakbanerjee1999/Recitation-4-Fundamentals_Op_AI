@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792305259709463272/8046304eb121444c84586c663c37e1eb/artifacts
+end_time: 1744332665038
+entry_point_name: ''
+experiment_id: '792305259709463272'
+lifecycle_stage: active
+run_id: 8046304eb121444c84586c663c37e1eb
+run_name: Basic Logistic Regression
+run_uuid: 8046304eb121444c84586c663c37e1eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744332663529
+status: 3
+tags: []
+user_id: sayakbanerjee

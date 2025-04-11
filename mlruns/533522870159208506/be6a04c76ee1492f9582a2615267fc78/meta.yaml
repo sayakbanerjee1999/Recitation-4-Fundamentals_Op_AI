@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/533522870159208506/be6a04c76ee1492f9582a2615267fc78/artifacts
+end_time: 1744332231246
+entry_point_name: ''
+experiment_id: '533522870159208506'
+lifecycle_stage: active
+run_id: be6a04c76ee1492f9582a2615267fc78
+run_name: monumental-grub-548
+run_uuid: be6a04c76ee1492f9582a2615267fc78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744332229685
+status: 3
+tags: []
+user_id: sayakbanerjee

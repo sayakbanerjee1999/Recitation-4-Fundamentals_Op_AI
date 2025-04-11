@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/533522870159208506/e5dd0e9c81d8419f8d6959559f480faa/artifacts
+deleted_time: 1744332640842
+end_time: 1744332623950
+entry_point_name: ''
+experiment_id: '533522870159208506'
+lifecycle_stage: deleted
+run_id: e5dd0e9c81d8419f8d6959559f480faa
+run_name: gentle-moose-91
+run_uuid: e5dd0e9c81d8419f8d6959559f480faa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744332623379
+status: 4
+tags: []
+user_id: sayakbanerjee

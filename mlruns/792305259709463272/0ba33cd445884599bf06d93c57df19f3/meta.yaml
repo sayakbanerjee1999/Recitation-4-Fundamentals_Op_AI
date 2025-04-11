@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792305259709463272/0ba33cd445884599bf06d93c57df19f3/artifacts
+end_time: 1744332666333
+entry_point_name: ''
+experiment_id: '792305259709463272'
+lifecycle_stage: active
+run_id: 0ba33cd445884599bf06d93c57df19f3
+run_name: Regularized Logistic Regression
+run_uuid: 0ba33cd445884599bf06d93c57df19f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744332665046
+status: 3
+tags: []
+user_id: sayakbanerjee

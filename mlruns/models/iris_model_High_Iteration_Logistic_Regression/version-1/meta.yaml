@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744332667615
+current_stage: None
+description: ''
+last_updated_timestamp: 1744332667615
+name: iris_model_High_Iteration_Logistic_Regression
+run_id: 5535349ed7a541d9bb8cc9ca31576335
+run_link: ''
+source: mlflow-artifacts:/792305259709463272/5535349ed7a541d9bb8cc9ca31576335/artifacts/iris_model_High_Iteration_Logistic_Regression
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/792305259709463272/5535349ed7a541d9bb8cc9ca31576335/artifacts/iris_model_High_Iteration_Logistic_Regression
+user_id: null
+version: 1
