@@ -10,6 +10,6 @@ conda activate recitation4
 pip install scikit-learn \
 pip install mlflow 
 
-### -  Write your MLFlow workflow and start the MLFlow server: \
+### -  Write your MLFlow workflow and start the MLFlow server: 
 mlflow server --host localhost --port $PORT \
 python main.py 
